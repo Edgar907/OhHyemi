@@ -20,7 +20,7 @@ markdown_text = """![waving](https://capsule-render.vercel.app/api?type=waving&h
 <p align="center">Tech's that I've used at least once</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?&logo=C%2B%2B&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/-C%23-F89B00?logo=Csharp&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/-Unity-2E2627?logo=Unity&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/git-FF9900?logo=git&logoColor=white"/>&nbsp
@@ -30,6 +30,12 @@ markdown_text = """![waving](https://capsule-render.vercel.app/api?type=waving&h
   <img src="https://img.shields.io/badge/-hugo-2FBB92?logo=hugo&logoColor=white">&nbsp
 </p>
 
+<br>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defianz&layout=compact&theme=omni)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=defianz&show_icons=true&theme=omni)
+
+<br>
 <br>
 
 ## 📃 Problem Solving (a.k.a Algorithm)
